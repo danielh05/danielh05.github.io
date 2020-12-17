@@ -1,2 +1,3 @@
 # danielh05.github.io
-website that is made with like html and stuff, so cool
+the really poorly made source code for my website
+link to website: https://danielh05.github.io/
