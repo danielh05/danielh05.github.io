@@ -24,12 +24,14 @@ h1 {
 	font-size: 48px;
 	color:#FFFF00;
 	line-height: 0.1;
+	font-weight: normal;
 }
 
 h2 {
 	font-size: 36px;
 	color:#FFFF00;
 	line-height: 0.1;
+	font-weight: normal;
 }
 
 h3 {
