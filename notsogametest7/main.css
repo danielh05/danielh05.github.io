@@ -10,10 +10,22 @@ body {
 	color: white;
 	font-family:"8bitoperator JVE Regular";
 	text-align: center;
+
+	image-rendering: pixelated;
+	image-rendering: optimizeSpeed;		/*for those really interesting browsers that don't support the previous property for some reason (like firefox)*/
+
 }
 
-a {
-	text-decoration:none;
+
+a, h1, h2 {
+	text-decoration: none;
+	color: #ffff00;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #ff8b00;
 }
 
 p {
@@ -23,14 +35,12 @@ p {
 
 h1 {
 	font-size: 48px;
-	color:#FFFF00;
 	line-height: 0.1;
 	font-weight: normal;
 }
 
 h2 {
 	font-size: 36px;
-	color:#FFFF00;
 	line-height: 0.1;
 	font-weight: normal;
 }
