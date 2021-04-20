@@ -24,6 +24,7 @@ body:before
 a, h1 {
 	text-decoration: none;
 	color: #FFBBD4;
+	padding-bottom: 1%;
 }
 
 a, h2 {
@@ -63,12 +64,12 @@ h3 {
 	font-weight: normal;
 }
 
-nav ul {
+.nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-nav ul li {
+.nav ul li {
 	display: inline;
 }
