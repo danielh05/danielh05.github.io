@@ -24,9 +24,11 @@ a, h1, h2 {
 a:hover {
 	text-decoration: underline;
 }
+/*
+ni ni nu na
 a:visited {
 	color: #ff8b00;
-}
+}*/
 
 p {
 	font-size: 36px;
@@ -49,4 +51,8 @@ h3 {
 	font-size: 24px;
 	line-height: 1;
 	font-weight: normal;
+}
+
+nav ul li {
+	display: inline-block;
 }
